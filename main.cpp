@@ -6,7 +6,7 @@
 #include <iomanip>
 
 #define GRID_SIZE 99
-#define OUTPUT_WIDTH 3
+#define OUTPUT_WIDTH 4 
 
 typedef std::pair<int, int> iPair;
 typedef std::vector<iPair> iPairs;
